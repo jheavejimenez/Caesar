@@ -4,7 +4,7 @@ The secrecy of this “cryptosystem” relied on only Caesar and the recipients 
 
 Here’s how the program work if the user provides a key of 7 and a plaintext of hello, world
 
-# Example
+# Usage
 ```
 $ ./caesar 7
 plaintext:  hello, world
